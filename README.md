@@ -1,16 +1,66 @@
-# 김정길
+<div align="center">
 
-아이디어를 실제로 동작하는 서비스로 만드는 일을 좋아합니다. 기획부터 프론트엔드·백엔드 개발, 배포와 테스트까지 직접 부딪히며 완성해 나가고 있습니다.
+<h1>김정길</h1>
 
-## 주요 프로젝트
+<p><strong>서비스가 실제로 돌아가는 데 필요한 일을 끝까지 챙깁니다.</strong></p>
+<p>AI · Data Agent · Backend · Full-stack</p>
 
-### [YOBI — 근거 기반 음식 추천 서비스](https://github.com/barleylover/YOBI)
+![Sungkyunkwan University](https://img.shields.io/badge/성균관대학교-036B3F?style=flat-square&logoColor=white)
+![Mathematics](https://img.shields.io/badge/수학과-34568B?style=flat-square&logoColor=white)
+![Software](https://img.shields.io/badge/소프트웨어학과-4C6EF5?style=flat-square&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-4.2%20%2F%204.5-5C7CFA?style=flat-square&logoColor=white)
 
-요기요 해커톤에서 팀원들과 함께 만든, 외국인 관광객을 위한 음식 추천 서비스입니다. 추천 기능부터 서비스 배포와 검증까지 전반적인 개발을 맡았습니다.
+</div>
 
-- 사용자의 선택을 바탕으로 메뉴를 추천하고, 추천 이유를 함께 보여주는 흐름 개발
-- React와 FastAPI를 사용한 웹 서비스 구현
-- Oracle Database 연동 및 OCI 배포
-- 자동화 테스트와 실제 배포 환경 E2E 검증
+---
 
-팀 프로젝트이므로 위 링크는 원본 저장소로 연결됩니다. 커밋과 PR에서 구체적인 작업 내역도 확인할 수 있습니다.
+## 🚀 프로젝트
+
+| 프로젝트 | 기간 | 한 일 | 결과 |
+| :--- | :---: | :--- | :---: |
+| 🍽️ **[YOBI](https://github.com/barleylover/YOBI)** | 2026.07–08 | 외국인 관광객을 위한 음식 추천 서비스<br>• 사용자 선택에 따른 메뉴 추천과 추천 이유 제공<br>• React·FastAPI 기반 서비스 구현<br>• Oracle Database 연동 및 OCI 배포<br>• 자동화 테스트와 공개 환경 E2E 검증 | **🏆 요기요 × 오라클<br>해커톤 우수상** |
+| 🧩 **[KDD Cup 2026: Data Agents](https://github.com/JunggilKim/kdd-cup-data-agent-nl2sql)** | 2026 | CSV·JSON·DB·문서 데이터를 SQLite로 통합<br>• 자연어 질문을 SQL로 변환하는 NL2SQL 파이프라인 개발<br>• 실행 결과를 활용한 SQL 검증·수정·선택<br>• 재현 가능한 데이터 증강 및 평가 도구 구현 | **Phase 2 진출** |
+| 🧬 **[TRIAL-OPT](https://github.com/JunggilKim/Healthcare_Agent)** | 2026.08 | 임상시험 사전 선별을 위한 연구 프로토타입<br>• 판정 근거를 추적할 수 있는 검증 구조 설계<br>• 부족한 정보를 우선순위에 따라 요청하는 흐름 구현<br>• FastAPI·React 기반 오프라인 데모와 테스트 구축 | **Healthcare Agentic<br>AI Challenge 2026** |
+
+---
+
+## 🔬 연구 경험
+
+| 기간 | 소속 | 내용 |
+| :---: | :--- | :--- |
+| 2026.02–06 | **성균관대학교 DIAL 연구실** | 학부연구생 · NL2SQL 연구 보조 및 활용 |
+
+---
+
+## 🎓 학력
+
+| 기간 | 학교 | 전공 |
+| :---: | :--- | :--- |
+| 2024.02–현재 | **성균관대학교** | 수학과·소프트웨어학과 복수전공 · 편입 · **4.2/4.5** |
+| 2020.03–2022.08 | **인하대학교** | 정보통신공학과 |
+
+---
+
+## 🛠 기술
+
+| 구분 | 기술 |
+| :---: | :--- |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Data / AI** | ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-5B5FC7?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-7B2CBF?style=flat-square&logoColor=white) ![NL2SQL](https://img.shields.io/badge/NL2SQL-2F9E44?style=flat-square&logoColor=white) |
+| **Cloud / Tools** | ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+
+---
+
+## 🏅 수상·어학
+
+| 구분 | 내용 | 취득일 |
+| :---: | :--- | :---: |
+| **수상** | 요기요 × 오라클 해커톤 우수상 · 외국인을 위한 AI 푸드 컨시어지 | 2026.08.25 |
+| **어학** | TOEIC Speaking **Advanced Low (160)** | 2026.07.04 |
+
+---
+
+<div align="center">
+<sub>프로젝트 이름을 누르면 저장소와 구체적인 작업 내용을 확인할 수 있습니다.</sub>
+</div>
