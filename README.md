@@ -1,16 +1,16 @@
-# Junggil Kim
+# 김정길
 
-I build AI products end to end—from product logic and full-stack implementation to deployment, testing, and release verification.
+제품 로직 설계와 풀스택 구현부터 배포, 테스트, 출시 검증까지 AI 제품의 전 과정을 직접 만들어갑니다.
 
-## Featured project
+## 주요 프로젝트
 
-### [YOBI — Evidence-grounded Food Concierge](https://github.com/barleylover/YOBI)
+### [YOBI — 근거 기반 음식 추천 서비스](https://github.com/barleylover/YOBI)
 
-Core contributor to a team-built AI food recommendation service for international visitors in Korea.
+한국을 방문한 외국인 관광객을 위한 AI 음식 추천 팀 프로젝트의 핵심 기여자입니다.
 
-- Built the structured recommendation and evidence-grounding flow
-- Contributed across the React and FastAPI application stack
-- Integrated Oracle Database and deployed the service on OCI
-- Established automated tests, public end-to-end validation, and release checks
+- 구조화된 추천 및 근거 연결 흐름 구현
+- React와 FastAPI 기반 풀스택 애플리케이션 개발
+- Oracle Database 연동 및 OCI 서비스 배포
+- 자동화 테스트, 공개 환경 E2E 검증 및 출시 점검 체계 구축
 
-YOBI combines server-validated recommendations with reviewed food knowledge and a mobile ordering flow. The link above points to the original team repository and its complete contribution history.
+YOBI는 서버에서 검증하는 추천 로직, 검토된 음식 지식, 모바일 주문 흐름을 결합한 서비스입니다. 위 링크에서 원본 팀 저장소와 전체 기여 이력을 확인할 수 있습니다.
