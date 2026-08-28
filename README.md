@@ -2,8 +2,7 @@
 
 <h1>김정길</h1>
 
-<p><strong>서비스가 실제로 돌아가는 데 필요한 일을 끝까지 챙깁니다.</strong></p>
-<p>AI · Data Agent · Backend · Full-stack</p>
+<p>AI · Data Agent · Backend
 
 ![Sungkyunkwan University](https://img.shields.io/badge/성균관대학교-036B3F?style=flat-square&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/수학과-34568B?style=flat-square&logoColor=white)
