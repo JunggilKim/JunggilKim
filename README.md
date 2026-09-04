@@ -19,7 +19,7 @@
 | :--- | :---: | :--- | :---: |
 | 🍽️ **[YOBI](https://github.com/barleylover/YOBI)** | 2026.07–08 | 외국인 관광객을 위한 음식 추천 및 설명 서비스<br>• 사용자 선택에 따른 메뉴 추천과 메뉴 설명 제공<br>• Hybrid search/RAG 활용<br>• React·FastAPI 기반 서비스 구현<br>• Oracle Database 연동 및 OCI 배포 | **🏆 요기요 × 오라클<br>해커톤 우수상<br>(2nd place)** |
 | 🧩 **[KDD Cup 2026: Data Agents](https://github.com/JunggilKim/kdd-cup-data-agent-nl2sql)** | 2026 | CSV·JSON·DB·문서 데이터를 SQLite로 통합<br>• 자연어 질문을 SQL로 변환하는 NL2SQL 파이프라인 개발<br>• 실행 결과를 활용한 SQL 검증·수정·선택<br>• 재현 가능한 데이터 증강 및 평가 도구 구현 | **본선 진출** |
-| 🧬 **[TRIAL-OPT](https://github.com/JunggilKim/Healthcare_Agent)** | 2026.08 | 임상시험 사전 선별을 위한 연구 프로토타입<br>• 판정 근거를 추적할 수 있는 검증 구조 설계<br>• 부족한 정보를 우선순위에 따라 요청하는 흐름 구현<br>• FastAPI·React 기반 오프라인 데모와 테스트 구축 |  |
+| 🧬 **[TRIAL-OPT](https://github.com/JunggilKim/Healthcare_Agent)** | 2026.08–09 | 임상시험 사전 선별을 위한 연구 프로토타입<br>• 검색 단서와 판정 근거를 분리하는 Evidence Firewall 구현<br>• 부족한 정보를 우선순위에 따라 묻고 답변 후 판정을 재검증하는 흐름 개발<br>• FastAPI·React 기반 오프라인 데모와 Google Cloud 배포 | **🏆 Healthcare Agentic AI Challenge 2026<br>우수상 (3위)** |
 
 ---
 
@@ -53,6 +53,7 @@
 
 | 수상명 | 내용 | 수상일 |
 | :--- | :--- | :---: |
+| **Healthcare Agentic AI Challenge 2026 우수상 (3위)** | TRIAL-OPT · 검증 가능한 임상시험 사전선별 연구 프로토타입 | 2026.09 |
 | **요기요 × 오라클 해커톤 우수상** | 외국인을 위한 AI 푸드 컨시어지 | 2026.08.25 |
 
 ---
